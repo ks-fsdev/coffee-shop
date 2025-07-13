@@ -1,42 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Amora – The Coffee Shop README</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 2rem; }
-    h1, h2, h3 { color: #b2744c; }
-    a { color: #b2744c; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-    pre { background: #f4f4f4; padding: 1rem; border-radius: 4px; overflow-x: auto; }
-    nav ul { list-style: none; padding-left: 0; }
-    nav li { margin: 0.5rem 0; }
-    section { margin-bottom: 2rem; }
-    footer { margin-top: 2rem; font-size: 0.9rem; color: #555; }
-  </style>
-</head>
-<body>
 
   <header>
     <h1>Amora – The Coffee Shop</h1>
     <p><strong>Amora</strong> is a static, responsive coffee shop website built using HTML5, CSS3, and Bootstrap 5.</p>
   </header>
-
-  <nav>
-    <h2>📋 Table of Contents</h2>
-    <ul>
-      <li><a href="#live-demo">Live Demo</a></li>
-      <li><a href="#features">Features</a></li>
-      <li><a href="#getting-started">Getting Started</a></li>
-      <li><a href="#usage">Usage</a></li>
-      <li><a href="#file-structure">File Structure</a></li>
-      <li><a href="#technologies">Technologies</a></li>
-      <li><a href="#author">Author</a></li>
-      <li><a href="#license">License</a></li>
-    </ul>
-  </nav>
 
   <section id="live-demo">
     <h2>🔗 Live Demo</h2>
@@ -113,9 +79,6 @@ cd coffee-shop
     <h2>👩‍💻 Author</h2>
     <p><strong>Khushi Srivastava</strong><br>
     GitHub: <a href="https://github.com/ks-fsdev">https://github.com/ks-fsdev</a></p>
-    <h2 id="license">📄 License</h2>
-    <p>Distributed under the <a href="LICENSE">MIT License</a>.</p>
+   
   </footer>
 
-</body>
-</html>

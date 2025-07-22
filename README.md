@@ -13,6 +13,20 @@
 <hr>
 
 <section>
+  <h2>📸 Project Preview</h2>
+
+  <p><strong>🏠 Landing Page</strong></p>
+  <img src="ss/landing-page.gif" alt="Landing Page Preview" />
+
+  <p><strong>🖥️ Responsive View</strong></p>
+  <img src="ss/responsive.gif" alt="Responsive Layout Preview" />
+
+  <p><strong>📱 Mobile View</strong></p>
+  <img src="ss/mobile-view.gif" alt="Mobile View Preview" />
+</section>
+<hr>
+
+<section>
   <h2>✨ Features</h2>
   <ul>
     <li>Responsive layout (desktop, tablet, mobile)</li>
@@ -25,20 +39,6 @@
     <li>Blog previews (title, date, excerpt)</li>
     <li>Footer with social media links and credits</li>
   </ul>
-</section>
-<hr>
-
-<section>
-  <h2>📸 Project Preview</h2>
-
-  <p><strong>🏠 Landing Page</strong></p>
-  <img src="ss/landing-page.gif" alt="Landing Page Preview" />
-
-  <p><strong>🖥️ Responsive View</strong></p>
-  <img src="ss/responsive.gif" alt="Responsive Layout Preview" />
-
-  <p><strong>📱 Mobile View</strong></p>
-  <img src="ss/mobile-view.gif" alt="Mobile View Preview" />
 </section>
 <hr>
 

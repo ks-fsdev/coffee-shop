@@ -81,6 +81,6 @@
 <hr>
 
 <section>
-  <h2>👤 About Me</h2>
+  <h2>About Me</h2>
   <p>I built this project to learn how to use Bootstrap classes, implement responsive designs, and create seamless single-page navigation with anchor links. Through this process, I also got more comfortable with layout structuring and component-based design, which will help me build more interactive and polished websites in the future.</p>
 </section>
